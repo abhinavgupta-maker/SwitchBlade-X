@@ -1,3 +1,4 @@
+The firmware location is: SwitchBlade-X -> Firmware -> SwitchBlade_
 # HackPad SwitchBlade-X
 
 ## Hardware Overview
