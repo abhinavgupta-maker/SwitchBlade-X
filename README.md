@@ -43,9 +43,9 @@ Firmware supports:
 To use it you have to first customize your firmware according to your needs and then flash the esp and then you can use it easily
 I made this project as when i am either coding or doing some robotics stuff i have problem doing some things and to make it easier i have make this hackpad so i can use it for gaming or coding with the encoder chaging the layer of keybinds to use aand the oled and rgb adding the vibe to it
 <img width="859" height="562" alt="image" src="https://github.com/user-attachments/assets/560e0033-ed93-4d32-994e-50cb2db9dde3" />
-
 <img width="1129" height="718" alt="image" src="https://github.com/user-attachments/assets/07cbf3c3-433c-45fa-b96e-ff4353866491" />
-<img width="859" height="562" alt="image" src="https://github.com/user-attachments/assets/52de92bd-fb93-407c-af03-e7a500b4b685" />
+<img width="654" height="545" alt="image" src="https://github.com/user-attachments/assets/19a0af2c-d285-4686-aeee-cb54848a9211" />
+
 
 Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
 330ohm1	1	R				Resistor_SMD:R_0201_0603Metric	~
