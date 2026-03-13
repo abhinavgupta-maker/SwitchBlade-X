@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"330ohm1","1","R","","","","Resistor_SMD:R_0201_0603Metric","~"
+"D1,D2,D3,D4,D5,D6,D7,D8","8","1N4148WT","","","","Diode_SMD:D_SOD-523","https://www.diodes.com/assets/Datasheets/ds30396.pdf"
+"D9,D10,D11,D12,D13,D14,D15,D16,D17","9","SK6812MINI-E","","","","footprints:SK6812MINI-E_fixed","https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
+"J1","1","Conn_01x04_Pin","","","","KiCad-SSD1306-0.91-OLED-4pin-128x32:SSD1306-0.91-OLED-4pin-128x32","~"
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8","8","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","~"
+"SW9","1","RotaryEncoder_Switch","","","","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","~"
+"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
