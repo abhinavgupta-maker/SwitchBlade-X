@@ -44,7 +44,7 @@ To use it you have to first customize your firmware according to your needs and 
 I made this project as when i am either coding or doing some robotics stuff i have problem doing some things and to make it easier i have make this hackpad so i can use it for gaming or coding with the encoder chaging the layer of keybinds to use aand the oled and rgb adding the vibe to it
 <img width="859" height="562" alt="image" src="https://github.com/user-attachments/assets/560e0033-ed93-4d32-994e-50cb2db9dde3" />
 <img width="1129" height="718" alt="image" src="https://github.com/user-attachments/assets/07cbf3c3-433c-45fa-b96e-ff4353866491" />
-<img width="654" height="545" alt="image" src="https://github.com/user-attachments/assets/19a0af2c-d285-4686-aeee-cb54848a9211" />
+<img width="754" height="388" alt="Screenshot 2026-03-13 223138" src="https://github.com/user-attachments/assets/3534174d-1b93-480a-91de-b01fb93ece5e" />
 
 
 Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
